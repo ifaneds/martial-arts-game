@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePluginEditor\\ProceduralRopePluginEditor.Build.cs",
+		"B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\ProceduralRopeComponent.Build.cs",
+		"B:\\Files\\UnrealEnginePlugins\\ProceduralRopePlugin\\Source\\ProceduralRopePlugin\\ProceduralRopePlugin.Build.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
