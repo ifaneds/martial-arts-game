@@ -1,0 +1,6 @@
+Right stick change target
+
+left stick move
+
+RT block/parry
+
