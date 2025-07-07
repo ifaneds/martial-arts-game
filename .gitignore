@@ -87,3 +87,5 @@ Source/RoomOne/Public/EOS_GameInstance.h
 Saved/Logs/MartialArtsGame.log
 *.log
 Saved/Logs/MartialArtsGame.log
+*.log
+*.log

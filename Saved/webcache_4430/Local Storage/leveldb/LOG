@@ -1,3 +1,2 @@
-2025/06/25-10:33:04.333 5494 Reusing MANIFEST B:/Files/MartialArtsGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/06/25-10:33:04.334 5494 Recovering log #3
-2025/06/25-10:33:04.334 5494 Reusing old log B:/Files/MartialArtsGame/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/07/07-15:58:43.432 7e94 Creating DB B:/Files/MartialArtsGame/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/07/07-15:58:43.449 7e94 Reusing MANIFEST B:/Files/MartialArtsGame/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
