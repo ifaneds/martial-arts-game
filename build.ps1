@@ -1,0 +1,1 @@
+& "B:\Epic Games\UE_5.5\Engine\Build\BatchFiles\Build.bat" MartialArtsGameEditor Win64 Development "B:\Files\MartialArtsGame\MartialArtsGame.uproject" 
